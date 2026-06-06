@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Morning Run", "type": "Cardio", "duration": 30, "calories": 300, "date": "2026-05-01", "completed": false },
+  { "id": 2, "name": "Power HIIT", "type": "HIIT", "duration": 20, "calories": 250, "date": "2026-05-01", "completed": false },
+  { "id": 3, "name": "Sun Salutation", "type": "Yoga", "duration": 45, "calories": 150, "date": "2026-05-02", "completed": false },
+  { "id": 4, "name": "Core Pilates", "type": "Pilates", "duration": 40, "calories": 200, "date": "2026-05-02", "completed": false },
+  { "id": 5, "name": "Evening Cycle", "type": "Cardio", "duration": 60, "calories": 500, "date": "2026-05-03", "completed": false },
+  { "id": 6, "name": "Tabata Blast", "type": "HIIT", "duration": 15, "calories": 200, "date": "2026-05-03", "completed": false },
+  { "id": 7, "name": "Flow Yoga", "type": "Yoga", "duration": 50, "calories": 180, "date": "2026-05-04", "completed": false },
+  { "id": 8, "name": "Leg Day Sculpt", "type": "Pilates", "duration": 35, "calories": 220, "date": "2026-05-04", "completed": false },
+  { "id": 9, "name": "Sprints", "type": "Cardio", "duration": 25, "calories": 350, "date": "2026-05-05", "completed": false },
+  { "id": 10, "name": "Burpee Madness", "type": "HIIT", "duration": 20, "calories": 280, "date": "2026-05-05", "completed": false },
+  { "id": 11, "name": "Deep Stretch", "type": "Yoga", "duration": 30, "calories": 100, "date": "2026-05-06", "completed": false },
+  { "id": 12, "name": "Stability Session", "type": "Pilates", "duration": 45, "calories": 190, "date": "2026-05-06", "completed": false },
+  { "id": 13, "name": "Quick Jog", "type": "Cardio", "duration": 20, "calories": 180, "date": "2026-05-07", "completed": false },
+  { "id": 14, "name": "Full Body Burn", "type": "HIIT", "duration": 30, "calories": 400, "date": "2026-05-07", "completed": false },
+  { "id": 15, "name": "Zen Flow", "type": "Yoga", "duration": 60, "calories": 210, "date": "2026-05-08", "completed": false },
+  { "id": 16, "name": "Mat Work", "type": "Pilates", "duration": 40, "calories": 170, "date": "2026-05-08", "completed": false },
+  { "id": 17, "name": "Stair Master", "type": "Cardio", "duration": 30, "calories": 320, "date": "2026-05-09", "completed": false },
+  { "id": 18, "name": "Mountain Climbers", "type": "HIIT", "duration": 15, "calories": 150, "date": "2026-05-09", "completed": false },
+  { "id": 19, "name": "Hatha Yoga", "type": "Yoga", "duration": 45, "calories": 140, "date": "2026-05-10", "completed": false },
+  { "id": 20, "name": "Side Plank Series", "type": "Pilates", "duration": 25, "calories": 130, "date": "2026-05-10", "completed": false }
+]
